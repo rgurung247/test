@@ -10,8 +10,8 @@ int main()
         }
     }
 
-    printf("Sum of numbers is : %i", sum);
+    printf("Sum of numbers are : %i", sum);
     printf("Hello");
-    printf("World");
     fclose(file);
+    printf("123");
 }
