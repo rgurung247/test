@@ -9,6 +9,9 @@ int main()
             sum++;
         }
     }
-    printf("Sum of numbers is: %i", sum);
+
+    printf("Sum of numbers is : %i", sum);
+    printf("Hello");
+    printf("World");
     fclose(file);
 }
